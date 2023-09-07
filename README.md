@@ -1,4 +1,5 @@
 # Recommendation Algorithm
+(Context : Uni Individual project)
 Part 1 - User ID-based Recommendation Algorithm:
 
 In this first part, you will develop a recommendation algorithm that operates by processing unique user IDs. Each ID is simply an integer representing a user. The algorithm should iterate through all users, compare their IDs, and calculate the number of common friends between each pair of users. Then, for a user chosen by the program's user, the algorithm will recommend the user who is not already their friend but has the most common friends in the social network.

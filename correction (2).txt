@@ -1,0 +1,52 @@
+Nom complet: Fares Majdoub
+Numéro de dossier (NI): 
+Estimation du temps de réalisation: 7 jours 
+
+
+Fonctionnalités
+---------------
+
+10/10: tp2_reseau_identifiants.trouver_nombre_elements_communs_entre_listes
+    Commentaires:
+
+10/10: tp2_reseau_identifiants.calculer_scores_similarite
+    Commentaires:
+
+15/15: tp2_reseau_identifiants.recommander
+    Commentaires:
+
+5/5: tp2_reseau_noms.nom_existe
+    Commentaires:
+
+5/5: tp2_reseau_noms.obtenir_id
+    Commentaires:
+
+15/15: tp2_reseau_noms.recommander
+    Commentaires:
+
+15/15: tp2_donnees.obtenir_couples_amis_facebook
+    Commentaires:
+
+10/10: tp2_donnees.obtenir_liste_noms_facebook
+    Commentaires:
+
+5/5: Respect de la décomposition fonctionnelle demandée
+    Commentaires:
+
+10/10: Qualité du code (noms de variables, style, commentaires, documentation)
+    Commentaires:
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+Good job !
+
+
+Total: 100/100
+
+
